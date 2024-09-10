@@ -1,6 +1,11 @@
 body {
-    background-color: #bbff00;
+    background-color: #009999;
 }
 ul li {
     display: inline;
+}
+#nechro{
+    border: 2px solid #33CCCC;
+    width: 25px;
+    height: 100vh;
 }
